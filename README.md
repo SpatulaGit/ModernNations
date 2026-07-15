@@ -7,7 +7,7 @@ Lonely Nations is a Fabric Minecraft mod focused on simulating different governm
 Currently planned:\
 -Nation creation and management\
 -Configurable mod\
--Democracy simulation systems\
+-Democracy simulation systems
 
 ## Development Status
 
