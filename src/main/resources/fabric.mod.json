@@ -13,7 +13,7 @@
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/modernnations/icon.png",
-	"environment": "client",
+	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"spatularat.modernnations.ModernNations"
@@ -31,7 +31,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.19.3",
-		"minecraft": "~1.21.10",
+		"minecraft": "~1.21.11",
 		"java": ">=21",
 		"fabric-api": "*"
 	}
