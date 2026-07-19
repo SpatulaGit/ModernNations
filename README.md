@@ -9,8 +9,9 @@ Currently planned:\
 -~~Claimed chunk entity storage~~\
 -Nation management through commands\
 -Democracy simulation with AI\
--Config allowing user to choose their own AI or to not use AI\
--Democracy simulation without AI
+-Customizability using the config file\
+-Democracy simulation without AI\
+-Release onto Modrinth!
 
 ## Development Status
 
